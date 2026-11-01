@@ -38,3 +38,9 @@ Ejemplo:
    .Conclusión
 
 Con esta actividad practicamos el manejo de cadenas de texto, las funciones y la validación de datos mediante C#.
+
+.captura de ejecucion
+
+<img width="1324" height="324" alt="Captura de pantalla 2026-11-01 113941" src="https://github.com/user-attachments/assets/7cd88718-e477-4999-a8b3-270bc826b35a" />
+
+<img width="1324" height="324" alt="Captura de pantalla 2026-11-01 113941" src="https://github.com/user-attachments/assets/722597f9-96e5-4436-a333-dac89038e72e" />
